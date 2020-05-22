@@ -1,0 +1,18 @@
+{
+  "name": "ep_code_formatting",
+  "description": "Allows formatting inline text as \"code\".",
+  "version": "1.0.0",
+  "author": "Mihai Ghete <npm@mihai3.com>",
+  "license": "LGPL-3.0+",
+  "contributors": [],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/mihai3/ep_code_formatting",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mihai3/ep_code_formatting.git"
+  }
+}
