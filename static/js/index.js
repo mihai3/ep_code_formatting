@@ -15,6 +15,7 @@ exports.aceAttribsToClasses = function(hookName, context) {
 
 exports.aceAttribClasses = function(hookName, attrs, callback) {
   attrs["codeFormatting"] = "codeFormatting";
+  callback(attrs);
 };
 
 exports.aceCreateDomLine = function(hookName, context) {
